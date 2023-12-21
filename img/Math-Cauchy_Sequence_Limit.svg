@@ -1,0 +1,172 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="42.524ex" height="7.843ex" style="font-size:14px;vertical-align: -6.005ex;" viewBox="0 -791.3 18309.1 3376.7" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" aria-labelledby="MathJax-SVG-1-Title">
+<title id="MathJax-SVG-1-Title">\underbrace{\lim_{n\to\infty}}_{\color{red}{n\ \text{趋于无限大时}}}\quad\underbrace{A_n}_{\color{blue}{\text{此数列（用通项表示）}}}\quad\underbrace{=}_{\color{orange}{\text{等于}}}\quad\underbrace{A}_{\text{曲边梯形的面积}}</title>
+<g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)" aria-hidden="true">
+<g transform="translate(1066,0)">
+<g transform="translate(224,0)">
+<path stroke-width="1" d="M42 46H56Q95 46 103 60V68Q103 77 103 91T103 124T104 167T104 217T104 272T104 329Q104 366 104 407T104 482T104 542T103 586T103 603Q100 622 89 628T44 637H26V660Q26 683 28 683L38 684Q48 685 67 686T104 688Q121 689 141 690T171 693T182 694H185V379Q185 62 186 60Q190 52 198 49Q219 46 247 46H263V0H255L232 1Q209 2 183 2T145 3T107 3T57 1L34 0H26V46H42Z"></path>
+<path stroke-width="1" d="M69 609Q69 637 87 653T131 669Q154 667 171 652T188 609Q188 579 171 564T129 549Q104 549 87 564T69 609ZM247 0Q232 3 143 3Q132 3 106 3T56 1L34 0H26V46H42Q70 46 91 49Q100 53 102 60T104 102V205V293Q104 345 102 359T88 378Q74 385 41 385H30V408Q30 431 32 431L42 432Q52 433 70 434T106 436Q123 437 142 438T171 441T182 442H185V62Q190 52 197 50T232 46H255V0H247Z" transform="translate(278,0)"></path>
+<path stroke-width="1" d="M41 46H55Q94 46 102 60V68Q102 77 102 91T102 122T103 161T103 203Q103 234 103 269T102 328V351Q99 370 88 376T43 385H25V408Q25 431 27 431L37 432Q47 433 65 434T102 436Q119 437 138 438T167 441T178 442H181V402Q181 364 182 364T187 369T199 384T218 402T247 421T285 437Q305 442 336 442Q351 442 364 440T387 434T406 426T421 417T432 406T441 395T448 384T452 374T455 366L457 361L460 365Q463 369 466 373T475 384T488 397T503 410T523 422T546 432T572 439T603 442Q729 442 740 329Q741 322 741 190V104Q741 66 743 59T754 49Q775 46 803 46H819V0H811L788 1Q764 2 737 2T699 3Q596 3 587 0H579V46H595Q656 46 656 62Q657 64 657 200Q656 335 655 343Q649 371 635 385T611 402T585 404Q540 404 506 370Q479 343 472 315T464 232V168V108Q464 78 465 68T468 55T477 49Q498 46 526 46H542V0H534L510 1Q487 2 460 2T422 3Q319 3 310 0H302V46H318Q379 46 379 62Q380 64 380 200Q379 335 378 343Q372 371 358 385T334 402T308 404Q263 404 229 370Q202 343 195 315T187 232V168V108Q187 78 188 68T191 55T200 49Q221 46 249 46H265V0H257L234 1Q210 2 183 2T145 3Q42 3 33 0H25V46H41Z" transform="translate(557,0)"></path>
+</g>
+<g transform="translate(0,-601)">
+<path stroke-width="1" transform="scale(0.707)" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path>
+<g transform="translate(424,0)">
+<path stroke-width="1" transform="scale(0.707)" d="M56 237T56 250T70 270H835Q719 357 692 493Q692 494 692 496T691 499Q691 511 708 511H711Q720 511 723 510T729 506T732 497T735 481T743 456Q765 389 816 336T935 261Q944 258 944 250Q944 244 939 241T915 231T877 212Q836 186 806 152T761 85T740 35T732 4Q730 -6 727 -8T711 -11Q691 -11 691 0Q691 7 696 25Q728 151 835 230H70Q56 237 56 250Z"></path>
+</g>
+<g transform="translate(1132,0)">
+<path stroke-width="1" transform="scale(0.707)" d="M55 217Q55 305 111 373T254 442Q342 442 419 381Q457 350 493 303L507 284L514 294Q618 442 747 442Q833 442 888 374T944 214Q944 128 889 59T743 -11Q657 -11 580 50Q542 81 506 128L492 147L485 137Q381 -11 252 -11Q166 -11 111 57T55 217ZM907 217Q907 285 869 341T761 397Q740 397 720 392T682 378T648 359T619 335T594 310T574 285T559 263T548 246L543 238L574 198Q605 158 622 138T664 94T714 61T765 51Q827 51 867 100T907 217ZM92 214Q92 145 131 89T239 33Q357 33 456 193L425 233Q364 312 334 337Q285 380 233 380Q171 380 132 331T92 214Z"></path>
+</g>
+</g>
+<g transform="translate(12,-1224)">
+<path stroke-width="1" d="M-24 327L-18 333H-1Q11 333 15 333T22 329T27 322T35 308T54 284Q115 203 225 162T441 120Q454 120 457 117T460 95V60V28Q460 8 457 4T442 0Q355 0 260 36Q75 118 -16 278L-24 292V327Z" transform="translate(23,0)"></path>
+<g transform="translate(469,0)">
+<path stroke-width="1" d="M-10 60Q-10 104 -10 111T-5 118Q-1 120 10 120Q96 120 190 84Q375 2 466 -158L474 -172V-207L468 -213H451H447Q437 -213 434 -213T428 -209T423 -202T414 -187T396 -163Q331 -82 224 -41T9 0Q-4 0 -7 3T-10 25V60Z"></path>
+<path stroke-width="1" d="M-18 -213L-24 -207V-172L-16 -158Q75 2 260 84Q334 113 415 119Q418 119 427 119T440 120Q454 120 457 117T460 98V60V25Q460 7 457 4T441 0Q308 0 193 -55T25 -205Q21 -211 18 -212T-1 -213H-18Z" transform="translate(450,0)"></path>
+</g>
+<path stroke-width="1" d="M-10 60V95Q-10 113 -7 116T9 120Q151 120 250 171T396 284Q404 293 412 305T424 324T431 331Q433 333 451 333H468L474 327V292L466 278Q375 118 190 36Q95 0 8 0Q-5 0 -7 3T-10 24V60Z" transform="translate(1365,0)"></path>
+</g>
+</g>
+<g transform="translate(0,-2112)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<path stroke-width="1" transform="scale(0.707)" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path>
+</g>
+<g fill="red" stroke="red"></g>
+<g fill="red" stroke="red" transform="translate(674,0)">
+<text font-family="monospace" stroke="none" transform="scale(42.28439625930456) matrix(1 0 0 -1 0 0)">趋</text>
+<g transform="translate(549,0)">
+<text font-family="monospace" stroke="none" transform="scale(42.28439625930456) matrix(1 0 0 -1 0 0)">于</text>
+</g>
+<g transform="translate(1099,0)">
+<text font-family="monospace" stroke="none" transform="scale(42.28439625930456) matrix(1 0 0 -1 0 0)">无</text>
+</g>
+<g transform="translate(1649,0)">
+<text font-family="monospace" stroke="none" transform="scale(42.28439625930456) matrix(1 0 0 -1 0 0)">限</text>
+</g>
+<g transform="translate(2198,0)">
+<text font-family="monospace" stroke="none" transform="scale(42.28439625930456) matrix(1 0 0 -1 0 0)">大</text>
+</g>
+<g transform="translate(2748,0)">
+<text font-family="monospace" stroke="none" transform="scale(42.28439625930456) matrix(1 0 0 -1 0 0)">时</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="translate(4972,0)">
+<g transform="translate(1919,0)">
+<g transform="translate(191,0)">
+<path stroke-width="1" d="M208 74Q208 50 254 46Q272 46 272 35Q272 34 270 22Q267 8 264 4T251 0Q249 0 239 0T205 1T141 2Q70 2 50 0H42Q35 7 35 11Q37 38 48 46H62Q132 49 164 96Q170 102 345 401T523 704Q530 716 547 716H555H572Q578 707 578 706L606 383Q634 60 636 57Q641 46 701 46Q726 46 726 36Q726 34 723 22Q720 7 718 4T704 0Q701 0 690 0T651 1T578 2Q484 2 455 0H443Q437 6 437 9T439 27Q443 40 445 43L449 46H469Q523 49 533 63L521 213H283L249 155Q208 86 208 74ZM516 260Q516 271 504 416T490 562L463 519Q447 492 400 412L310 260L413 259Q516 259 516 260Z"></path>
+<g transform="translate(750,-150)">
+<path stroke-width="1" transform="scale(0.707)" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path>
+</g>
+</g>
+<g transform="translate(0,-673)">
+<path stroke-width="1" d="M-24 327L-18 333H-1Q11 333 15 333T22 329T27 322T35 308T54 284Q115 203 225 162T441 120Q454 120 457 117T460 95V60V28Q460 8 457 4T442 0Q355 0 260 36Q75 118 -16 278L-24 292V327Z" transform="translate(23,0)"></path>
+<g transform="translate(390,0)">
+<path stroke-width="1" d="M-10 60Q-10 104 -10 111T-5 118Q-1 120 10 120Q96 120 190 84Q375 2 466 -158L474 -172V-207L468 -213H451H447Q437 -213 434 -213T428 -209T423 -202T414 -187T396 -163Q331 -82 224 -41T9 0Q-4 0 -7 3T-10 25V60Z"></path>
+<path stroke-width="1" d="M-18 -213L-24 -207V-172L-16 -158Q75 2 260 84Q334 113 415 119Q418 119 427 119T440 120Q454 120 457 117T460 98V60V25Q460 7 457 4T441 0Q308 0 193 -55T25 -205Q21 -211 18 -212T-1 -213H-18Z" transform="translate(450,0)"></path>
+</g>
+<path stroke-width="1" d="M-10 60V95Q-10 113 -7 116T9 120Q151 120 250 171T396 284Q404 293 412 305T424 324T431 331Q433 333 451 333H468L474 327V292L466 278Q375 118 190 36Q95 0 8 0Q-5 0 -7 3T-10 24V60Z" transform="translate(1207,0)"></path>
+</g>
+</g>
+<g transform="translate(0,-1561)">
+<g fill="blue" stroke="blue">
+<g fill="blue" stroke="blue">
+<g fill="blue" stroke="blue">
+<text font-family="monospace" stroke="none" transform="scale(42.28439625930456) matrix(1 0 0 -1 0 0)">此</text>
+<g transform="translate(549,0)">
+<text font-family="monospace" stroke="none" transform="scale(42.28439625930456) matrix(1 0 0 -1 0 0)">数</text>
+</g>
+<g transform="translate(1099,0)">
+<text font-family="monospace" stroke="none" transform="scale(42.28439625930456) matrix(1 0 0 -1 0 0)">列</text>
+</g>
+<g transform="translate(1649,0)">
+<text font-family="monospace" stroke="none" transform="scale(42.28439625930456) matrix(1 0 0 -1 0 0)">（</text>
+</g>
+<g transform="translate(2198,0)">
+<text font-family="monospace" stroke="none" transform="scale(42.28439625930456) matrix(1 0 0 -1 0 0)">用</text>
+</g>
+<g transform="translate(2748,0)">
+<text font-family="monospace" stroke="none" transform="scale(42.28439625930456) matrix(1 0 0 -1 0 0)">通</text>
+</g>
+<g transform="translate(3298,0)">
+<text font-family="monospace" stroke="none" transform="scale(42.28439625930456) matrix(1 0 0 -1 0 0)">项</text>
+</g>
+<g transform="translate(3847,0)">
+<text font-family="monospace" stroke="none" transform="scale(42.28439625930456) matrix(1 0 0 -1 0 0)">表</text>
+</g>
+<g transform="translate(4397,0)">
+<text font-family="monospace" stroke="none" transform="scale(42.28439625930456) matrix(1 0 0 -1 0 0)">示</text>
+</g>
+<g transform="translate(4947,0)">
+<text font-family="monospace" stroke="none" transform="scale(42.28439625930456) matrix(1 0 0 -1 0 0)">）</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="translate(11636,0)">
+<g transform="translate(439,0)">
+<path stroke-width="1" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path>
+</g>
+<g transform="translate(0,-382)">
+<path stroke-width="1" d="M-24 327L-18 333H-1Q11 333 15 333T22 329T27 322T35 308T54 284Q115 203 225 162T441 120Q454 120 457 117T460 95V60V28Q460 8 457 4T442 0Q355 0 260 36Q75 118 -16 278L-24 292V327Z" transform="translate(23,0)"></path>
+<g transform="translate(390,0)">
+<path stroke-width="1" d="M-10 60Q-10 104 -10 111T-5 118Q-1 120 10 120Q96 120 190 84Q375 2 466 -158L474 -172V-207L468 -213H451H447Q437 -213 434 -213T428 -209T423 -202T414 -187T396 -163Q331 -82 224 -41T9 0Q-4 0 -7 3T-10 25V60Z"></path>
+<path stroke-width="1" d="M-18 -213L-24 -207V-172L-16 -158Q75 2 260 84Q334 113 415 119Q418 119 427 119T440 120Q454 120 457 117T460 98V60V25Q460 7 457 4T441 0Q308 0 193 -55T25 -205Q21 -211 18 -212T-1 -213H-18Z" transform="translate(450,0)"></path>
+</g>
+<path stroke-width="1" d="M-10 60V95Q-10 113 -7 116T9 120Q151 120 250 171T396 284Q404 293 412 305T424 324T431 331Q433 333 451 333H468L474 327V292L466 278Q375 118 190 36Q95 0 8 0Q-5 0 -7 3T-10 24V60Z" transform="translate(1207,0)"></path>
+</g>
+<g transform="translate(279,-1271)">
+<g fill="orange" stroke="orange">
+<g fill="orange" stroke="orange">
+<g fill="orange" stroke="orange">
+<text font-family="monospace" stroke="none" transform="scale(42.28439625930456) matrix(1 0 0 -1 0 0)">等</text>
+<g transform="translate(549,0)">
+<text font-family="monospace" stroke="none" transform="scale(42.28439625930456) matrix(1 0 0 -1 0 0)">于</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="translate(14461,0)">
+<g transform="translate(1094,0)">
+<g transform="translate(453,0)">
+<path stroke-width="1" d="M208 74Q208 50 254 46Q272 46 272 35Q272 34 270 22Q267 8 264 4T251 0Q249 0 239 0T205 1T141 2Q70 2 50 0H42Q35 7 35 11Q37 38 48 46H62Q132 49 164 96Q170 102 345 401T523 704Q530 716 547 716H555H572Q578 707 578 706L606 383Q634 60 636 57Q641 46 701 46Q726 46 726 36Q726 34 723 22Q720 7 718 4T704 0Q701 0 690 0T651 1T578 2Q484 2 455 0H443Q437 6 437 9T439 27Q443 40 445 43L449 46H469Q523 49 533 63L521 213H283L249 155Q208 86 208 74ZM516 260Q516 271 504 416T490 562L463 519Q447 492 400 412L310 260L413 259Q516 259 516 260Z"></path>
+</g>
+<g transform="translate(0,-515)">
+<path stroke-width="1" d="M-24 327L-18 333H-1Q11 333 15 333T22 329T27 322T35 308T54 284Q115 203 225 162T441 120Q454 120 457 117T460 95V60V28Q460 8 457 4T442 0Q355 0 260 36Q75 118 -16 278L-24 292V327Z" transform="translate(23,0)"></path>
+<g transform="translate(390,0)">
+<path stroke-width="1" d="M-10 60Q-10 104 -10 111T-5 118Q-1 120 10 120Q96 120 190 84Q375 2 466 -158L474 -172V-207L468 -213H451H447Q437 -213 434 -213T428 -209T423 -202T414 -187T396 -163Q331 -82 224 -41T9 0Q-4 0 -7 3T-10 25V60Z"></path>
+<path stroke-width="1" d="M-18 -213L-24 -207V-172L-16 -158Q75 2 260 84Q334 113 415 119Q418 119 427 119T440 120Q454 120 457 117T460 98V60V25Q460 7 457 4T441 0Q308 0 193 -55T25 -205Q21 -211 18 -212T-1 -213H-18Z" transform="translate(450,0)"></path>
+</g>
+<path stroke-width="1" d="M-10 60V95Q-10 113 -7 116T9 120Q151 120 250 171T396 284Q404 293 412 305T424 324T431 331Q433 333 451 333H468L474 327V292L466 278Q375 118 190 36Q95 0 8 0Q-5 0 -7 3T-10 24V60Z" transform="translate(1207,0)"></path>
+</g>
+</g>
+<g transform="translate(0,-1404)">
+<text font-family="monospace" stroke="none" transform="scale(42.28439625930456) matrix(1 0 0 -1 0 0)">曲</text>
+<g transform="translate(549,0)">
+<text font-family="monospace" stroke="none" transform="scale(42.28439625930456) matrix(1 0 0 -1 0 0)">边</text>
+</g>
+<g transform="translate(1099,0)">
+<text font-family="monospace" stroke="none" transform="scale(42.28439625930456) matrix(1 0 0 -1 0 0)">梯</text>
+</g>
+<g transform="translate(1649,0)">
+<text font-family="monospace" stroke="none" transform="scale(42.28439625930456) matrix(1 0 0 -1 0 0)">形</text>
+</g>
+<g transform="translate(2198,0)">
+<text font-family="monospace" stroke="none" transform="scale(42.28439625930456) matrix(1 0 0 -1 0 0)">的</text>
+</g>
+<g transform="translate(2748,0)">
+<text font-family="monospace" stroke="none" transform="scale(42.28439625930456) matrix(1 0 0 -1 0 0)">面</text>
+</g>
+<g transform="translate(3298,0)">
+<text font-family="monospace" stroke="none" transform="scale(42.28439625930456) matrix(1 0 0 -1 0 0)">积</text>
+</g>
+</g>
+</g>
+</g>
+</svg>
